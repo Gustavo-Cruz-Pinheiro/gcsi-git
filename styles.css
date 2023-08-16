@@ -1,3 +1,24 @@
 body {
     background-color: aqua;
 }
+
+.b1 {
+    width: 50%;
+    height: 300px;
+    background-image: url(img/backiee-148781.jpg);
+    background-size: cover;
+}
+
+.b2 {
+    width: 50%;
+    height: 300px;
+    background-image: url(img/backiee-81162.jpg);
+    background-size: cover;
+}
+
+.b3 {
+    width: 50%;
+    height: 300px;
+    background-image: url(img/backiee-89981.jpg);
+    background-size: cover;
+}
