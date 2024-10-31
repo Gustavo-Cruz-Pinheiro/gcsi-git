@@ -5,7 +5,7 @@
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina apenas um navegador.
+Você vai precisar ter instalado em sua máquina apenas um navegador.
 
 ### 🧭 Rodando a aplicação
 
