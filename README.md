@@ -1,4 +1,4 @@
-# GCSI-atividade1
+# GCSI Atividade Git/GitHub
  Projeto introdução ao git e github para disciplina Gerência e Configuração para Serviços da Internet.
 
 ## 🚀 Como executar o projeto
