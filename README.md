@@ -1,15 +1,6 @@
 # GCSI Atividade Git/GitHub
- Projeto introdução ao git e github para disciplina Gerência e Configuração para Serviços da Internet.
 
-## 🚀 Como executar o projeto
-
-### Pré-requisitos
-
-Você vai precisar ter instalado em sua máquina apenas um navegador.
-
-### 🧭 Rodando a aplicação
-
-É necessário apenas abrir o arquivo index.html.
+Projeto introdução ao git e github para disciplina Gerência e Configuração para Serviços da Internet.
 
 ## Autor
 
